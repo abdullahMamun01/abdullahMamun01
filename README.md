@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍💻 I’m a junior developer currently working on full-stack web development using the MERN stack.<br>🤝 I’m looking to collaborate on exciting web projects and gain more experience in the field.<br>🛠️ I’m looking for help with scaling applications and mastering advanced development techniques.<br>📚 I’m currently learning more about TypeScript and optimizing server-side rendering with Next.js.<br>💬 Ask me about state management with Redux and efficient data fetching using TanStack Query.<br>⚡ Fun fact: I love exploring new technologies and automating processes to improve efficiency!<br><br>
+👨‍💻 I’m a junior developer currently working on full-stack web development using the MERN stack.<br>🤝 I’m looking to collaborate on exciting web projects and gain more experience in the field.<br>🛠️ I’m looking for help with scaling applications and mastering advanced development techniques.<br>📚 I’m currently learning more about TypeScript and optimizing server-side rendering with Next.js.<br>💬 Ask me about any web technologies related to my work! I enjoy discussing various frameworks, libraries, tools, and best practices in web development.<br>⚡ Fun fact: I love exploring new technologies and automating processes to improve efficiency!<br><br>
 
 
 ## 🌐 Socials:
