@@ -1,5 +1,4 @@
-
-![Purple Minimalist App Developer New LinkedIn Banner](https://github.com/user-attachments/assets/e5b79bfc-7751-4134-af79-f96d1fe60b79)
+![linkedin-banner](https://github.com/user-attachments/assets/f66b2761-d7c2-4611-bff2-02fa6ae0a8dd)
 <br/>
 <h2>👋 Welcome to my page!</h2>
 <p>I'm <strong>Abdullah Mamun</strong>, a 🌍 junior MERN stack developer from Bangladesh, passionate about building efficient web applications and continuously learning new technologies. 🚀</p>
