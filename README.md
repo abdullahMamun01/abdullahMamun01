@@ -4,8 +4,8 @@
 <p>I'm <strong>Abdullah Mamun</strong>, a 🌍 junior MERN stack developer from Bangladesh, passionate about building efficient web applications and continuously learning new technologies. 🚀</p>
 
 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-# 💫 About Me:
 👨‍💻 I’m a junior developer currently working on full-stack web development using the MERN stack.<br>🤝 I’m looking to collaborate on exciting web projects and gain more experience in the field.<br>🛠️ I’m looking for help with scaling applications and mastering advanced development techniques.<br>📚 I’m currently learning more about TypeScript and optimizing server-side rendering with Next.js.<br>💬 Ask me about any web technologies related to my work! I enjoy discussing various frameworks, libraries, tools, and best practices in web development.<br>⚡ Fun fact: I love exploring new technologies and automating processes to improve efficiency!<br><br>
 
 
